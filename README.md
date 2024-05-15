@@ -22,6 +22,6 @@ Tecnologias utilizadas no desenvolvimento do projeto:
 ## 🔖 Layout
 
 <p>
-    <img alt="Tela Principal" src="![Captura de tela 2024-05-02 191033](https://github.com/Arthurbaltar1/clone/assets/157082220/c766844d-9374-4a34-9b4c-861169a5d7e6)" width="275px">
+    <img  ![Captura de tela 2024-05-02 191033](https://github.com/Arthurbaltar1/clone/assets/157082220/c766844d-9374-4a34-9b4c-861169a5d7e6)" width="275px">
    
 </p>
